@@ -8,7 +8,7 @@ export default ({ data }) => (
     <div>
       <div className="picture">
         <div className="square">
-          <p>フルーツと伝統野菜</p>
+          <p>フルーツとか伝統野菜とかナスとか...</p>
         </div>
       </div>
     </div>
